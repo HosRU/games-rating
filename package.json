@@ -1,0 +1,24 @@
+{
+  "name": "yandex",
+  "version": "1.0.0",
+  "description": "Домашечка по Практикуму",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HosRU/YandexPracticum.git"
+  },
+  "author": "Артем Прилепин",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HosRU/YandexPracticum/issues"
+  },
+  "homepage": "https://github.com/HosRU/YandexPracticum#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
