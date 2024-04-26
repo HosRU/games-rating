@@ -7,5 +7,6 @@ const WEIGHT = {
   };
 
 module.exports = {
-    PATH_TO_RATING_FILE
+    PATH_TO_RATING_FILE,
+    WEIGHT
 }

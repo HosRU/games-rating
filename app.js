@@ -1,5 +1,4 @@
-const http = require("http")
-const fs = require('fs');
+const http = require("http");
 const path = require("path");
 const mimeTypes = require("./appModules/http-utils/mime-types");
 const mainRouteController = require("./controllers/main");
@@ -27,4 +26,4 @@ const server = http.createServer((req, res) => {
     }
 })
 
-server.listen(3000);
+server.listen(3005);
